@@ -1,2 +1,2 @@
 # Sub_Domain_Enumertion_Tool
-This tool would be very useful for both Red and Blue team
+This tools will be useful for both red or blue team. It will help to reconnaissance of a target. 
